@@ -1,0 +1,10 @@
+# 运行时下载或生成的文件
+ModelCache/
+CosyVoice/
+venv/
+__pycache__/
+*.wav
+*_log*.txt
+法华经/*.mp3
+法华经/_修改前备份/
+校对/
